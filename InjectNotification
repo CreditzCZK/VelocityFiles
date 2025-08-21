@@ -1,0 +1,9 @@
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "CzkAPI",
+    Text = "Injected [CZK] Have fun.",
+    Duration = 5,
+    Icon = "rbxassetid://106737099004442"
+})
+
+-- Hi, this is a simple notification u can copy this and use it for ur self
+-- From Creditz
